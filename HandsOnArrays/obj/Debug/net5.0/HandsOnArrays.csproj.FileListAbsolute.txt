@@ -1,0 +1,16 @@
+E:\CG\.net\Module 1\C#\HandsOn\HandsOnArrays\bin\Debug\net5.0\HandsOnArrays.exe
+E:\CG\.net\Module 1\C#\HandsOn\HandsOnArrays\bin\Debug\net5.0\HandsOnArrays.deps.json
+E:\CG\.net\Module 1\C#\HandsOn\HandsOnArrays\bin\Debug\net5.0\HandsOnArrays.runtimeconfig.json
+E:\CG\.net\Module 1\C#\HandsOn\HandsOnArrays\bin\Debug\net5.0\HandsOnArrays.runtimeconfig.dev.json
+E:\CG\.net\Module 1\C#\HandsOn\HandsOnArrays\bin\Debug\net5.0\HandsOnArrays.dll
+E:\CG\.net\Module 1\C#\HandsOn\HandsOnArrays\bin\Debug\net5.0\ref\HandsOnArrays.dll
+E:\CG\.net\Module 1\C#\HandsOn\HandsOnArrays\bin\Debug\net5.0\HandsOnArrays.pdb
+E:\CG\.net\Module 1\C#\HandsOn\HandsOnArrays\obj\Debug\net5.0\HandsOnArrays.csproj.AssemblyReference.cache
+E:\CG\.net\Module 1\C#\HandsOn\HandsOnArrays\obj\Debug\net5.0\HandsOnArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\CG\.net\Module 1\C#\HandsOn\HandsOnArrays\obj\Debug\net5.0\HandsOnArrays.AssemblyInfoInputs.cache
+E:\CG\.net\Module 1\C#\HandsOn\HandsOnArrays\obj\Debug\net5.0\HandsOnArrays.AssemblyInfo.cs
+E:\CG\.net\Module 1\C#\HandsOn\HandsOnArrays\obj\Debug\net5.0\HandsOnArrays.csproj.CoreCompileInputs.cache
+E:\CG\.net\Module 1\C#\HandsOn\HandsOnArrays\obj\Debug\net5.0\HandsOnArrays.dll
+E:\CG\.net\Module 1\C#\HandsOn\HandsOnArrays\obj\Debug\net5.0\ref\HandsOnArrays.dll
+E:\CG\.net\Module 1\C#\HandsOn\HandsOnArrays\obj\Debug\net5.0\HandsOnArrays.pdb
+E:\CG\.net\Module 1\C#\HandsOn\HandsOnArrays\obj\Debug\net5.0\HandsOnArrays.genruntimeconfig.cache
